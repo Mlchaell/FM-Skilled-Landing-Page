@@ -116,7 +116,6 @@ h3 {
 
   .header__hero {
     content: url("assets/image-hero-tablet@2x.png");
-    right: 0;
     transform: translateY(-10%);
     max-width: 50rem;
   }
